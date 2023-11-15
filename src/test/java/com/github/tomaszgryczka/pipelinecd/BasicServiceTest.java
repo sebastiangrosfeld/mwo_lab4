@@ -16,7 +16,7 @@ public class BasicServiceTest {
         //when
 
         //then
-        String expected = "Hello World";
+        String expected = "Wrong";
         assertEquals(result, expected);
     }
 }
