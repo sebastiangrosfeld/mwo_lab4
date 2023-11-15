@@ -14,7 +14,7 @@ public class BasicServiceTest {
         String result = basicService.returnHelloWorld();
 
         //then
-        String expected = "Wrong word";
+        String expected = "Wrong";
         assertEquals(result, expected);
     }
 }
