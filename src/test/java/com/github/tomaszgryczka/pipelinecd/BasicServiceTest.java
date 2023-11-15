@@ -13,8 +13,10 @@ public class BasicServiceTest {
         //given
         String result = basicService.returnHelloWorld();
 
+        //when
+
         //then
-        String expected = "Wrong";
+        String expected = "Hello World";
         assertEquals(result, expected);
     }
 }
