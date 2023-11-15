@@ -1,4 +1,4 @@
-package com.github.tomaszgryczka.pipelinecd;
+package com.github.pipelinecd;
 
 import org.junit.jupiter.api.Test;
 
